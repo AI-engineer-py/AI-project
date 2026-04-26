@@ -1,11 +1,3 @@
-# rohitranjan
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZiZG1jeG10aThoODBtcml5cWt1c2R6dmluZm1sdW16bjh1MThpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu4BETLsNHarJOs/giphy.gif">
-    <img height="180px" alt="AMOLED‑dark robot + terminal banner" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZiZG1jeG10aThoODBtcml5cWt1c2R6dmluZm1sdW16bjh1MThpYyZlcD12MV9pbnRl ...HIDDEN..." style="background:#000;border-radius:12px;">
-  </picture>
-</p>
-
 # 👋 Hi there, I’m **Rohit Ranjan** 🖤
 
 **AI/ML Engineer | Python | Linux | Docker | TensorFlow | PyTorch**
