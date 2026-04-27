@@ -43,19 +43,7 @@ Running in the dark, training in the dark. 🤖💻
 
 ---
 
-## 🖥️ AMOLED‑Dark Terminal GIF
 
-![Coding in terminal](assets/coding_terminal.gif)  
-*Terminal commands, `python`, `docker build`, `tensorflow` training, all glowing in dark mode.*
-
-> To keep it AMOLED‑dark‑friendly:
-> - Use a **dark terminal theme** (black background, light text) when recording.  
-> - Put the GIF in `assets/coding_terminal.gif` and embed:
->   ```markdown
->   ![Coding demo](assets/coding_terminal.gif)
->   ```
-
----
 
 ## 🤖 Robot / AI‑Style Stickers (Dark Mode)
 
